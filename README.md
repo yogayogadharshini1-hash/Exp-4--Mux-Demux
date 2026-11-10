@@ -83,10 +83,6 @@ endmodule
 
 ## Truth Table
 
-<img width="573" height="154" alt="image" src="https://github.com/user-attachments/assets/59439a3e-3b2e-4024-bd87-c151b69d207b" />
-
-<img width="583" height="90" alt="image" src="https://github.com/user-attachments/assets/8c723a83-e18c-4c08-807b-1c717405382a" />
-
 ### 2:1 Multiplexer
 
 <img width="573" height="154" alt="image" src="https://github.com/user-attachments/assets/96dd3fa2-7747-402d-b88f-17c11e28fcbb" />
